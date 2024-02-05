@@ -1,0 +1,19 @@
+.nav{
+    background-color: #262626;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+
+
+
+.btn{
+  background-color: #82b440;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
